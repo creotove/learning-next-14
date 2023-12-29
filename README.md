@@ -1,14 +1,7 @@
-# Authentication
-- User login and signup
+# Authoriztion
+- User login and signup with authorized routes
 - Used local mongodb server for database
-- In next part I will do authorization
-
-# Imp Note
-- Export models like below syntax
-```
-const UserModel = mongoose.models.user || mongoose.model('user', userSchema);
-export default UserModel;
-````
+- In next part I will do verify user using the mail
 
 
 
@@ -26,5 +19,5 @@ npm i
 ```bash
 npm run dev
 ```
-- Day 3 of next js 29-12-2023
+- Day 4 of next js 30-12-2023
 - Hope I will be consistent
