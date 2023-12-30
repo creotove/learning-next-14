@@ -1,7 +1,5 @@
-# Authoriztion
-- User login and signup with authorized routes
-- Used local mongodb server for database
-- In next part I will do verify user using the mail
+# Verification
+- Added Verification of the user using the email using mailtrap https://mailtrap.io/
 
 
 
@@ -12,12 +10,12 @@
 
 ```gh repo clone creotove/learning-next-14```
 
-- Go the foldet where code is downloaded run the below commands
+- Go the folder where code is downloaded run the below commands
 ```bash
 npm i
 ```
 ```bash
 npm run dev
 ```
-- Day 4 of next js 30-12-2023
+- Day 5 of next js 31-12-2023
 - Hope I will be consistent
